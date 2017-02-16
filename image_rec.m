@@ -1,0 +1,1 @@
+clear all; close all; clcdog1 = imread("/Users/ray/Desktop/training_set/dog1","jpeg")imshow(dog1)
